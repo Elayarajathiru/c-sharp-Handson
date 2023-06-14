@@ -1,0 +1,106 @@
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/appsettings.Development.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/appsettings.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/Ecommerce.staticwebassets.runtime.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/Ecommerce
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/Ecommerce.deps.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/Ecommerce.runtimeconfig.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/bin/Debug/net7.0/Ecommerce.pdb
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.csproj.AssemblyReference.cache
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.AssemblyInfoInputs.cache
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.AssemblyInfo.cs
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.csproj.CoreCompileInputs.cache
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.RazorAssemblyInfo.cache
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.RazorAssemblyInfo.cs
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.build.Ecommerce.props
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Ecommerce.props
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Ecommerce.props
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets.build.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/staticwebassets.development.json
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/scopedcss/bundle/Ecommerce.styles.css
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/scopedcss/projectbundle/Ecommerce.bundle.scp.css
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/refint/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.pdb
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/Ecommerce.genruntimeconfig.cache
+/Users/meena/Desktop/Elayaraja/Asp.Net core/ShopBooks/Ecommerce/obj/Debug/net7.0/ref/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/appsettings.Development.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/appsettings.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Ecommerce.staticwebassets.runtime.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Ecommerce
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Ecommerce.deps.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Ecommerce.runtimeconfig.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Ecommerce.pdb
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Azure.Core.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Azure.Identity.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Humanizer.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.CodeDom.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.csproj.AssemblyReference.cache
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.AssemblyInfoInputs.cache
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.AssemblyInfo.cs
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.csproj.CoreCompileInputs.cache
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.RazorAssemblyInfo.cache
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.RazorAssemblyInfo.cs
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.build.Ecommerce.props
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Ecommerce.props
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Ecommerce.props
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets.build.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/staticwebassets.development.json
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/scopedcss/bundle/Ecommerce.styles.css
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/scopedcss/projectbundle/Ecommerce.bundle.scp.css
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.csproj.CopyComplete
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/refint/Ecommerce.dll
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.pdb
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/Ecommerce.genruntimeconfig.cache
+/Users/meena/Desktop/Elayaraja/Localgit/Untitled/Ecommerce/obj/Debug/net7.0/ref/Ecommerce.dll
